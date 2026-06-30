@@ -2,7 +2,7 @@
 #include <fstream>
 using namespace std;
 
-class admin {
+class admin { //Arya Eko Pradetyo
 	public:
 		void loginAdmin() {
 			system("cls");
@@ -632,7 +632,7 @@ ostream& operator<<(ostream& out, const pelanggan& output) {
 
 
 
-class akun {
+class akun {//Arya Eko Prasetyo
 private:
     string username, password, namalengkap, alamat, jk2;
     int jk;
